@@ -1,0 +1,15 @@
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\MainWindow.g.cs
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\App.g.cs
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise_MarkupCompile.cache
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise_MarkupCompile.lref
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\bin\Debug\DBExercise.exe.config
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\bin\Debug\DBExercise.exe
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\bin\Debug\DBExercise.pdb
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\MainWindow.baml
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.g.resources
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.Properties.Resources.resources
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.csproj.GenerateResource.cache
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.csproj.CoreCompileInputs.cache
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.exe
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.pdb
+D:\Materialy do zajec\Informatyka\Programowanie .Net\DB i XML\DBExercise\DBExercise\obj\Debug\DBExercise.csprojAssemblyReference.cache

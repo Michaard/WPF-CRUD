@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<osoby>
+  <osoba id="1" imie="Michał" nazwisko="Graniczka" wiek="24" data_urodzenia="1993-07-07" />
+  <osoba id="2" imie="Jan" nazwisko="Kowalski" wiek="60" data_urodzenia="1958-03-23" />
+  <osoba id="3" imie="Adam" nazwisko="Nowak" wiek="42" data_urodzenia="1976-02-13" />
+</osoby>
